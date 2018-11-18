@@ -1,3 +1,6 @@
+![alt text](https://user-images.githubusercontent.com/40801686/48676953-49176500-eb6e-11e8-90df-69a1a3b734b2.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
